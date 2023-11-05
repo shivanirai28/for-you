@@ -17,7 +17,7 @@ To run this project, you'll need a web browser. Ensure you have a modern web bro
 1.Clone this repository to your local machine using Git:
 
 bash<br>
- git clone https://github.com/your-username/for-you-website.git
+ git clone https://github.com/shivanirai28/for-you.git
 Replace your-username with your GitHub username if you plan to fork it.
 
  2.Open the project folder in your favorite code editor.
@@ -38,7 +38,7 @@ We welcome contributions from the community. If you'd like to contribute to this
 
 2.Clone your forked repository to your local machine.
 bash<br>
-git clone https://github.com/your-username/for-you-website.git
+git clone https://github.com/shivanirai28/for-you.git
 
 Replace your-username with your GitHub username.
 
